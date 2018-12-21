@@ -1,0 +1,160 @@
+.title {
+  font-family: Aeroport-Bold;
+  font-size: 2.6em;
+  text-align: left;
+  margin-left: 60px;
+  margin-top: 47px;
+  line-height: normal;
+  }
+
+.rectangle__open-day {
+  width: 500px;
+  height: 209px;
+  background: #FFFFFF;
+  border: 3px solid #000000;
+  margin-left: 820px;
+  margin-top: 121px;
+  position: absolute;
+  z-index: 1;
+}
+
+.rectangle__open-day__title {
+  padding: 18px 0px 14px 20px;
+  font-family: Aeroport-Bold;
+  font-size: 30px;
+  color: #AF0000;
+  text-align: left;
+}
+
+.rectangle__open-day__text {
+  padding: 0px 0px 15px 20px;
+  font-family: Aeroport-Bold;
+  font-size: 30px;
+  color: #000000;
+
+}
+
+.rectangle__open-day__time {
+  padding: 0px 20px 27px 0px;
+  font-family: Aeroport-Bold;
+  font-size: 30px;
+  color: #AF0000;
+  text-align: right;
+  line-height: normal;
+}
+
+.rectangle__about {
+  width: 604px;
+  height: 219px;
+  background: #FFFFFF;
+  border: 3px solid #000000;
+  margin-left: 180px;
+  margin-top: 341px;
+  position: absolute;
+  z-index: 1;
+}
+
+.rectangle__about__title {
+  padding: 19px 0px 22px 20px;
+  font-family: Aeroport-Bold;
+  font-size: 30px;
+  color: #000000;
+  text-align: left;
+}
+
+.rectangle__about__text {
+  padding: 0px 0px 27px 20px;
+  font-family: GillSans;
+  font-size: 19px;
+  color: #000000;
+}
+
+.rectangle__free {
+  margin-left: 1020px;
+  margin-top: 501px;
+  width: 274px;
+  height: 204px;
+  background: #FFFFFF;
+  border: 3px solid #000000;
+  position: absolute;
+  z-index: 1;
+  line-height: normal;
+}
+
+.rectangle__free__title {
+  padding: 15px 0px 8px 20px;
+  font-family: Aeroport-Bold;
+  font-size: 30px;
+  color: #AF0000;
+  text-align: left;
+}
+
+.rectangle__free__text {
+  padding: 0px 0px 0px 20px;
+  font-family: Aeroport-Bold;
+  font-size: 30px;
+  color: #000000;
+}
+
+.sale {
+  width: 217px;
+  height: 162px;
+  position: absolute;
+  z-index: 1;
+  background: #FFFFFF;
+  border: 3px solid #000000;
+  margin-left: 427px;
+  margin-top: 986px;
+}
+
+.sale__title {
+  padding: 27px 0px 27px 20px;
+  font-family: Aeroport-Bold;
+  font-size: 30px;
+  color: #AF0000;
+  text-align: left;
+}
+
+.sale__text {
+  padding: 0px 0px 27px 20px;
+  font-family: Aeroport-Bold;
+  font-size: 30px;
+  color: #000000;
+  text-align: left;
+}
+
+.bottle {
+  margin-left: 400px;
+  margin-top: 503px;
+  position: absolute;
+  z-index: -1;
+}
+
+.dinosaur {
+  margin-left: 720px;
+  margin-top: 223px;
+  position: absolute;
+  z-index: -2;
+}
+
+.book {
+  margin-left: 720px;
+  margin-top: 801px;
+  position: absolute;
+  z-index: -2;
+}
+
+.wire {
+  margin-left: 120px;
+  margin-top: 702px;
+  position: absolute;
+  z-index: -2;
+}
+.bottom {
+  font-family: Aeroport-Medium;
+  font-size: 30px;
+  color: #000000;
+  text-align: center;
+  padding: 48px 0px 58px 0px;
+  margin-top: 1360px;
+}
